@@ -13,6 +13,7 @@ Zie het richtlijnen document.
 - Maak een GIT account aan
 - Verstuur een verzoek voor deelname
 - Laat je verifieren
+- v
  
 # Waarom GIT
 
